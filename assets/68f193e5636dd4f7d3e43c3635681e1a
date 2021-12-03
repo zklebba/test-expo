@@ -1,0 +1,11 @@
+{
+  "rememberMe": "Remember me",
+  "signIn": "Sign in",
+  "username": "Username",
+  "password": "Password",
+  "client": "Client",
+  "unauthorized": "Invalid Credentials",
+  "noNetworkConnection": "No network connection",
+  "welcomeTo": "Welcome to",
+  "elogbooksLite": "Elogbooks Lite"
+}
